@@ -1,0 +1,10 @@
+D:\Linq薪資排序查詢(2)\bin\Debug\Linq薪資排序查詢(2).exe.config
+D:\Linq薪資排序查詢(2)\bin\Debug\Linq薪資排序查詢(2).exe
+D:\Linq薪資排序查詢(2)\bin\Debug\Linq薪資排序查詢(2).pdb
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢(2).csprojAssemblyReference.cache
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢_2_.Form1.resources
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢_2_.Properties.Resources.resources
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢(2).csproj.GenerateResource.cache
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢(2).csproj.CoreCompileInputs.cache
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢(2).exe
+D:\Linq薪資排序查詢(2)\obj\Debug\Linq薪資排序查詢(2).pdb
